@@ -91,6 +91,6 @@
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/SarahE-Dev/SarahE-Dev/output/snake.svg" alt="Snake animation" style="background-color: black;" />
+<img src="https://raw.githubusercontent.com/SarahE-Dev/SarahE-Dev/output/snake-dark.svg" alt="Snake animation" />
 
 ###
