@@ -15,6 +15,9 @@
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czgzbXl3NXRyOTZmdzdscno0NjBtMzBkcm05aGVxbzV2Y3F2OWg3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LD2ZJ0pdNmCxFikNQ5/giphy.gif" height="140" alt="Penguin coding gif" />
+</p>
 
 ---
 
@@ -40,12 +43,6 @@
 - **Bloom Housing Risk Prediction:** XGBoost-powered prediction workflow integrated for real-time case support.
 - **BlueZack:** Full-stack video streaming app with custom APIs, YouTube integration, and Redux-based state management.
 - **Fyre Tunes:** Spotify-powered music discovery app with OAuth 2.0, deployed on AWS EC2 with Nginx + SSL.
-
-### 📊 GitHub activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarahE-Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Sarah's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahE-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160" />
-</p>
 
 ### 🐍 Contribution snake
 <p align="center">
